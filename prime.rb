@@ -1,6 +1,8 @@
 require 'pry'
 require 'prime'
 
+#in pry =>argument(number) = 2 
+
 def prime?(number)
   # binding.pry 
   return false if number < 2 
